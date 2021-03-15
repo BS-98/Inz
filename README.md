@@ -5,7 +5,7 @@
 ## Some GUI App screens:
 
 Main window:
-<img src="https://github.com/BS-98/Inz/blob/main/AppScreens/MainWindow.png" width="1000" height="1000"/>
+![](AppScreens/MainWindow.png)
 
 Navigation in app:
 ![](AppScreens/Navigation.png)
