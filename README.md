@@ -5,7 +5,7 @@
 ## Some GUI App screens:
 
 Main window:
-![](AppScreens/MainWindow.png)
+![](AppScreens/MainWindow.png | width=48)
 
 Navigation in app:
 ![](AppScreens/Navigation.png)
