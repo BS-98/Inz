@@ -4,7 +4,7 @@
 ---------
 ## Some GUI App screens:
  Markup : * Bullet list
-              * ![](AppScreens/MainWindow.png)
+              ![](AppScreens/MainWindow.png)
                   * Sub-nested bullet etc
           * Bullet list item 2
            
